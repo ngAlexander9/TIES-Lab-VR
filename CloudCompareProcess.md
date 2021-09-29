@@ -16,7 +16,7 @@ Using office-setting dataset
   - Scans should combine into one scan file
 - Compute Normals
   - Edit -> Normals -> Compute
-  - Used default settings
+  - In orientation, make sure use sensors whenever possible is checked and select use preferred orientation -> sensor origin
   - Takes a while to calculate (went not responding for me a couple times)
 - Poisson
 - 
