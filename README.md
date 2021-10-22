@@ -8,3 +8,5 @@ Scans taken with Leica BLK360 laser scanner
 Point cloud data processed with Cloud Compare
 
 Mesh generated with Meshlab
+
+Questions, Comments, etc. Please refer to Discussions page.
