@@ -34,7 +34,7 @@
     - Inter-triangle border: 0 (maybe more, see below)
     - Method: Basic (sometimes Space-optimizing crashes)
     - Click apply.
-  - **Filters -> Texture -> Transfer: Vertex Color to Texture
+  - **Filters -> Texture -> Transfer: Vertex Color to Texture**
     - Texture file: (file name for .png)
     - Texture width: Same as Texture Dimension
     - Texture height: Same as Texture Dimension
