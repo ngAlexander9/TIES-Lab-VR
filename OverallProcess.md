@@ -21,7 +21,7 @@ See leica.md for additional considerations and references regarding producing hi
 5. Segment point cloud into rooms for better mesh generation
 6. Export point cloud as .ply
 
-See CloudCompareProcess.md for additional considerations and references
+See [CloudCompareProcess.md](https://github.com/ngAlexander9/TIES-Lab-VR/blob/master/CloudCompareProcess.md) for detailed steps, additional considerations, and references
 
 ## Meshlab
 
