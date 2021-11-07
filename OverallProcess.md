@@ -4,7 +4,7 @@
 
 1. Use Leica scanner to take scans of desired locations
 
-See leica.md for additional considerations and references regarding producing higher quality scans
+See [LeicaProcess.md](https://github.com/ngAlexander9/TIES-Lab-VR/blob/master/LeicaProcess.md) for additional considerations and references regarding producing higher quality scans
 
 ## Leica's Cyclone REGISTER Software
 
