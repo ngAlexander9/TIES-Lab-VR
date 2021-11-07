@@ -32,6 +32,6 @@ See [CloudCompareProcess.md](https://github.com/ngAlexander9/TIES-Lab-VR/blob/ma
 5. Generate texture for mesh using point color data
 6. Export mesh, texture, and material files as .obj, .png, and .mtl
 
-See [MeshLabProcess.md](https://github.com/ngAlexander9/TIES-Lab-VR/blob/master/CloudCompareProcess.md) for detailed steps, additional considerations, and references
+See [MeshLabProcess.md](https://github.com/ngAlexander9/TIES-Lab-VR/blob/master/MeshLabProcess.md) for detailed steps, additional considerations, and references
 
 ## Import .obj into Unreal/Unity
